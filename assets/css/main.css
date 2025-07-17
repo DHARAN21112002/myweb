@@ -193,11 +193,17 @@ ul, li {
 .project-entry, h3,p{
 
     font-family: cursive;
-}
-
+  
 .profile-section {
   text-align: center;
   margin-top: 20px;
+}
+
+.profile-section img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .profile-img {
