@@ -309,3 +309,22 @@ ul {
   background-color: #005b99;
 }
 
+
+  .social-icons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 15px;
+}
+
+
+  body {
+  font-family: 'Segoe UI', sans-serif;
+}
+
+
+  * {
+  box-sizing: border-box;
+  max-width: 100%;
+}
