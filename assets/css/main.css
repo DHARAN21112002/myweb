@@ -203,30 +203,6 @@ ul, li {
   margin-top: 20px;
 }
 
-.profile-section img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-}
-
-.profile-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  padding: 40px 0 20px;
-  position: relative;
-  z-index: 10;
-}
-
-.profile-wrapper img {
-  width: 150px;
-  height: 150px;
-  border-radius: 50%;
-  object-fit: cover;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-  border: 4px solid 
-
 
 .social-icons {
   margin-top: 15px;
@@ -332,5 +308,24 @@ ul {
 }
 
 font-family: 'Poppins', sans-serif;
+
+
+
+  .profile-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 40px;
+  padding-bottom: 20px;
+}
+
+.profile-pic {
+  width: 140px;
+  height: 140px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #fff;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
 
   
