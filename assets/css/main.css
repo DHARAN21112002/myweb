@@ -133,10 +133,12 @@ section p {
 }
 
 .edu-entry ul {
-  list-style-type: disc;
-  margin-left: 20px;
-  color: #ddd;
+  list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+  color: #000; /* Optional: adjust color */
 }
+
 #skills {
   padding: 50px 0;
   text-align: center;
