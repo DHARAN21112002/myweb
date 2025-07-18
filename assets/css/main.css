@@ -301,25 +301,3 @@ ul {
 
 font-family: 'Poppins', sans-serif;
 
-
-
- .profile-section {
-  text-align: center;
-  margin-top: 30px;
-}
-
-.profile-wrapper {
-  display: inline-block;
-  border-radius: 50%;
-  overflow: hidden;
-  width: 150px;
-  height: 150px;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.profile-pic {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
