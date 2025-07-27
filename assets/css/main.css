@@ -194,10 +194,11 @@ ul, li {
     font-family: cursive;
 }
 
-.project-entry, h3,p{
+.project-entry h3,
+.project-entry p {
+  font-family: cursive;
+}  
 
-    font-family: cursive;
-  
 .profile-section {
   text-align: center;
   margin-top: 20px;
